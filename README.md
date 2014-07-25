@@ -1,4 +1,4 @@
 prime
 =====
 
-Find the next prime
+Find the next prime number
